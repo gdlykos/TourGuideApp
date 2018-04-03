@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="88dp"
+    android:background="@color/background"
+    android:minHeight="88dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/place_photo_image_view"
+        style="@style/ImageStyle"
+        android:src="@mipmap/ic_launcher" />
+
+    <LinearLayout
+        android:id="@+id/text_container"
+        style="@style/TextLayoutStyle"
+        android:layout_toRightOf="@id/place_photo_image_view"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title_text_view"
+            style="@style/TitleTextStyle"
+            android:gravity="bottom"
+            tools:text="sdfgd" />
+
+        <TextView
+            android:id="@+id/address_text_view"
+            style="@style/AddressTextStyle"
+            android:gravity="top" />
+
+    </LinearLayout>
+
+</RelativeLayout>

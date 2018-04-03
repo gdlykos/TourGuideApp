@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#448AFF</color>
+
+    <!-- Background color for app -->
+    <color name="background">#E1F5FE</color>
+
+    <!-- Text color -->
+    <color name="text_color">#01579B</color>
+
+    <!-- Background color for the top category -->
+    <color name="category_top">#E1F5FE</color>
+
+    <!-- Background color for the museum category -->
+    <color name="category_museum">#E1F5FE</color>
+
+    <!-- Background color for the food category -->
+    <color name="category_food">#E1F5FE</color>
+
+    <!-- Background color for the shopping category -->
+    <color name="category_shopping">#E1F5FE</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <!-- Tab text color -->
+    <color name="tab_text_color">#E1F5FE</color>
+</resources>

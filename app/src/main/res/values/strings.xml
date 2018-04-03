@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Athens Tour Guide App</string>
+
+    <!-- Category name for shopping -->
+    <string name="category_shopping">Shopping</string>
+
+    <!-- Category name for food-->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for top -->
+    <string name="category_top">Top</string>
+
+    <!-- Category name for museum -->
+    <string name="category_museum">Museum</string>
+
+    <!-- Strings for the top category -->
+    <string name="top_first_title">The Acropolis</string>
+    <string name="top_first_address">The Acropolis of Athens</string>
+    <string name="top_second_title">Parthenon</string>
+    <string name="top_second_address">At the Acropolis</string>
+    <string name="top_third_title">Odeon of Herodes Atticus</string>
+    <string name="top_third_address">Dionysiou Areopagitou Street, Athens</string>
+    <string name="top_forth_title">Panathenaic Stadium</string>
+    <string name="top_forth_address"> Vasileos Konstantinou Ave., Athens</string>
+
+    <!-- Strings for the museum category -->
+    <string name="museum_first_title">Acropolis Museum</string>
+    <string name="museum_first_address">Dionysiou Areopagitou Street, Athens</string>
+    <string name="museum_second_title">National Archaeological Museum</string>
+    <string name="museum_second_address">Patission Street, Athens</string>
+    <string name="museum_third_title">Benaki Museum</string>
+    <string name="museum_third_address">Koumpari 1, Athens</string>
+    <string name="museum_forth_title">Museum of Cycladic Art</string>
+    <string name="museum_forth_address">Neofytou Douka 4, Athens</string>
+    <string name="museum_fifth_title">Byzantine and Christian Museum</string>
+    <string name="museum_fifth_address">Vassilissis Sofias Avenue, Athens</string>
+    <string name="museum_sixth_title">National Museum of Contemporary Art</string>
+    <string name="museum_sixth_address">Kallirrois Ave. and Amvrosiou Frantzi Str., Athens</string>
+    <string name="museum_seventh_title">Hellenic Motor Museum</string>
+    <string name="museum_seventh_address">Ioulianou 33, Athens</string>
+
+    <!-- Strings for the food category -->
+    <string name="food_first_title">A for Athens</string>
+    <string name="food_first_address">Monastiraki square, Athens</string>
+    <string name="food_second_title">360 Degrees</string>
+    <string name="food_second_address">Ifaistou 2, Athens</string>
+    <string name="food_third_title">Dinner in the Sky</string>
+    <string name="food_third_address">Technopolis, Athens</string>
+    <string name="food_forth_title">Cinque Wine and Deli Bar</string>
+    <string name="food_forth_address">Agatharchou 15, Athens</string>
+    <string name="food_fifth_title">Aleria</string>
+    <string name="food_fifth_address">Meg. Alexandrou 57, Athens</string>
+    <string name="food_sixth_title">Funky Gourmet</string>
+    <string name="food_sixth_address">Paramythias 13, Athens</string>
+    <string name="food_seventh_title">GB Roof Garden</string>
+    <string name="food_seventh_address">Vasileos Georgiou Α\' Str, Athens</string>
+
+    <!-- Strings for the shopping category -->
+    <string name="shopping_first_title">The Mall Athens</string>
+    <string name="shopping_first_address"> Andreas Papandreou 35, Athens</string>
+    <string name="shopping_second_title">Athens Metro Mall</string>
+    <string name="shopping_second_address"> Vouliagmenis Ave. 276, Ag. Dimitrios</string>
+    <string name="shopping_third_title">Athens Heart Mall</string>
+    <string name="shopping_third_address">Peiraios 180, Tayros</string>
+    <string name="shopping_forth_title">Village Shopping and More</string>
+    <string name="shopping_forth_address">Thevon 228 Street, Renti</string>
+    <string name="shopping_fifth_title">River West</string>
+    <string name="shopping_fifth_address">Kifisou Ave 96\-98, Aigaleo</string>
+    <string name="shopping_sixth_title">Ermou Street</string>
+    <string name="shopping_sixth_address">Ermou Street, Athens</string>
+</resources>
